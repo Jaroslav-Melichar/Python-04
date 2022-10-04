@@ -6,4 +6,5 @@ for n in range(number):
     numberbers = int(input('Zadejte číslo: '));
     list.append(numberbers);
 print("Největší číslo je:", max(list));
+
 my_function(list);
